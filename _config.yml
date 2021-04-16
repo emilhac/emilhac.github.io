@@ -33,15 +33,15 @@
 #
 title: Titel der Website
 #
-# Autor der Website; wird auch im Impressum und bei den Betreiberdaten in der
-# Datenschutzerklärung angezeigt; verwende eine Mailadresse, die für die
-# Öffentlichkeit angelegt ist; SPAM wird in letzter Zeit kaum noch an solche
-# Adressen gesendet.
+# Autor der Website; wird bewusst unterschieden vom Betreiber (s.u.); über diese 
+# Property setzt du die Anzeigedaten für den Hauptautor der Website; verwende 
+# eine Mailadresse, die für die Öffentlichkeit angelegt ist; SPAM wird in 
+# letzter Zeit kaum noch an solche Adressen gesendet.
 #
 author:
-  name: maxi
-  display: Maximiliane Musterfrau
-  email: maxi@musterfrau.at
+  name: storyfaktor
+  display: Michael Gerzabek
+  email: michael@storyfaktor.de
 #
 # Website Betreiberdaten; werden im Impressum (Pflicht) und in den Datenschutz-
 # bestimmungen angezeigt (optional); für DSGVO und ECG relevant.
